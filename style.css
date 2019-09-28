@@ -1,0 +1,19 @@
+p{
+    background: blue;
+    color: black;
+}
+table{
+    border-collapse: collapse;
+}
+h1{
+    background:rgb(12, 209, 176);
+    color:black;
+}
+body{
+    background: white;
+    color:wheat;
+}
+button{
+    color:rgb(0, 0, 0);
+    background:green;
+}
